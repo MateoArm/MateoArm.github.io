@@ -10,12 +10,9 @@ author:
   github: MateoArm
 
 markdown: kramdown
-theme: jekyll-theme-lanyon
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# REMOVE THIS LINE: theme: jekyll-theme-lanyon
 
 # Lanyon theme options
 lanyon:
   sidebar: true  
-  theme: dark 
+  theme: dark
