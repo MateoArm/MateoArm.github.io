@@ -1,0 +1,21 @@
+# _config.yml
+title: Mateo Armijo's Website
+description: Occidental College Student Mateo Armijo
+url: "https://MateoArm.github.io" 
+baseurl: "" 
+
+author:
+  name: Mateo Armijo
+  email: armijo@oxy.edu
+  github: MateoArm
+
+markdown: kramdown
+theme: jekyll-theme-lanyon
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Lanyon theme options
+lanyon:
+  sidebar: true  
+  theme: dark 
