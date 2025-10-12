@@ -1,0 +1,55 @@
+/* DeepSeek-inspired dark theme */
+body {
+    background-color: #1a1a1a !important;
+    color: #e0e0e0 !important;
+}
+
+.sidebar {
+    background-color: #2d2d2d !important;
+    border-right: 1px solid #404040 !important;
+}
+
+.sidebar-item p {
+    color: #b0b0b0 !important;
+}
+
+.sidebar-nav-item {
+    color: #cccccc !important;
+}
+
+.sidebar-nav-item:hover {
+    color: #ffffff !important;
+    background-color: #404040 !important;
+}
+
+.container.content {
+    background-color: #1a1a1a !important;
+}
+
+.masthead {
+    border-bottom: 1px solid #404040 !important;
+}
+
+.masthead-title a {
+    color: #ffffff !important;
+}
+
+.masthead-title small {
+    color: #b0b0b0 !important;
+}
+
+/* Code blocks */
+pre, code {
+    background-color: #2d2d2d !important;
+    border: 1px solid #404040 !important;
+    color: #e0e0e0 !important;
+}
+
+/* Links */
+a {
+    color: #7cb9ff !important;
+}
+
+a:hover {
+    color: #a8d2ff !important;
+}
