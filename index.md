@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: dark
 title: Home
 ---
 
-# Mateo Armijo
+# Welcome
 
 Currently an undergraduate at Occidental College studying Economics and Mathematics.
 
