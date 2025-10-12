@@ -9,6 +9,3 @@ Currently an undergraduate at Occidental College studying Economics and Mathemat
 
 As of Fall 2025 I am taking Discrete Math, Real Analysis I and Microeconomics.
 
-## Navigation
-- [About](/about)
-- [Notes](/notes)
