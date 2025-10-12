@@ -1,17 +1,17 @@
 # _config.yml
 title: "Mateo Armijo"
-description: ""I don't know everything, I just know what I know"-Tsubasa Hanekawa" 
+description: "I don't know everything, I just know what I know-Hanekawa Tsubasa"
 url: "https://MateoArm.github.io" 
 baseurl: "" 
 
 author:
-  name: Mateo Armijo
-  email: armijo@oxy.edu
-  github: MateoArm
+  name: "Mateo Armijo"
+  email: "armijo@oxy.edu"
+  github: "MateoArm"
 
 markdown: kramdown
 
-# Lanyon theme options - use the darkest option
+# Lanyon theme options
 lanyon:
   sidebar: true  
   theme: dark
