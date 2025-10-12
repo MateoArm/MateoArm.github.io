@@ -34,7 +34,7 @@ body {
 }
 
 .sidebar-toggle:before {
-    filter: invert(1) !important; /* Makes the hamburger icon white */
+    filter: invert(1) !important; 
 }
 
 .sidebar-checkbox:checked ~ .sidebar-toggle {
@@ -74,7 +74,7 @@ p, li, div {
     color: #e8e8e8 !important;
 }
 
-/* Links */
+
 a {
     color: #4a9fff !important;
     text-decoration: none;
@@ -85,7 +85,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Code blocks */
+
 pre, code {
     background-color: #1a1a1a !important;
     border: 1px solid #333333 !important;
