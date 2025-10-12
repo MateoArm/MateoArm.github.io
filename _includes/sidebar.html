@@ -8,12 +8,10 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="/">Home</a>
-    <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about">About</a>
-    <a class="sidebar-nav-item{% if page.path == 'notes.md' %} active{% endif %}" href="/notes">Notes</a>
-    
-    <!-- Optional: Add more links here -->
-    <!-- <a class="sidebar-nav-item" href="/archive">Archive</a> -->
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/about">About</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/notes">Notes</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/cv">CV</a>
   </nav>
 
   <div class="sidebar-item">
