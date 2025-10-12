@@ -1,6 +1,6 @@
 # _config.yml
-title: Mateo Armijo's Website
-description: Occidental College Student Mateo Armijo
+title: Mateo Armijo
+description: "I don't know everything, I just know what I know" -Tsubasa Hanekawa
 url: "https://MateoArm.github.io" 
 baseurl: "" 
 
@@ -10,9 +10,8 @@ author:
   github: MateoArm
 
 markdown: kramdown
-# REMOVE THIS LINE: theme: jekyll-theme-lanyon
 
-# Lanyon theme options
+# Lanyon theme options - use the darkest option
 lanyon:
   sidebar: true  
   theme: dark
