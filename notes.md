@@ -22,10 +22,11 @@ Here is where I will post my class notes. I type them up before midterms and for
 - instructor: Rainone
 
 <br>
+
 ## Spring 2025
+
 ### Multivariable Calculus 
 - [Lecture Notes Part 4](/uploads/MATH212_Part_four__Vector_Calculus.pdf)
-- topics: Fundemental Theorem of Line Integrals, Green's Theorem, Stoke's Theorem , Gauss' Theorem
-- text:Stewart J.-Essential calculus. Early transcendentals-Brooks (2013)
-- instructor: Rainone
-
+- Topics: Fundamental Theorem of Line Integrals, Green's Theorem, Stoke's Theorem, Gauss' Theorem
+- Text: Stewart J. - Essential Calculus: Early Transcendentals (2013)
+- Instructor: Rainone
