@@ -4,9 +4,11 @@ body {
     color: #e8e8e8 !important;
 }
 
+/* Sidebar */
 .sidebar {
     background-color: #1a1a1a !important;
     border-right: 1px solid #333333 !important;
+    color: #e8e8e8 !important;
 }
 
 .sidebar-item p {
@@ -24,16 +26,32 @@ body {
     border-left: 3px solid #4a9fff !important;
 }
 
-.sidebar-nav-item.active {
-    color: #ffffff !important;
+/* Sidebar toggle button */
+.sidebar-toggle {
     background-color: #333333 !important;
-    border-left: 3px solid #4a9fff !important;
+    color: #ffffff !important;
+    border: 1px solid #555555 !important;
+}
+
+.sidebar-toggle:before {
+    filter: invert(1) !important; /* Makes the hamburger icon white */
+}
+
+.sidebar-checkbox:checked ~ .sidebar-toggle {
+    background-color: #4a9fff !important;
+}
+
+/* Welcome/Main content area */
+.wrap {
+    background-color: #0d0d0d !important;
 }
 
 .container.content {
     background-color: #0d0d0d !important;
+    color: #e8e8e8 !important;
 }
 
+/* Masthead (welcome area) */
 .masthead {
     border-bottom: 1px solid #333333 !important;
     background-color: #0d0d0d !important;
@@ -47,7 +65,16 @@ body {
     color: #a0a0a0 !important;
 }
 
-/* Links - DeepSeek blue */
+/* All text content */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+}
+
+p, li, div {
+    color: #e8e8e8 !important;
+}
+
+/* Links */
 a {
     color: #4a9fff !important;
     text-decoration: none;
@@ -58,28 +85,9 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Headers */
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff !important;
-}
-
-/* Content area */
-.content {
-    background-color: #0d0d0d !important;
-}
-
-.wrap {
-    background-color: #0d0d0d !important;
-}
-
 /* Code blocks */
 pre, code {
     background-color: #1a1a1a !important;
     border: 1px solid #333333 !important;
-    color: #e8e8e8 !important;
-}
-
-/* Make sure all text is visible */
-p, li, div {
     color: #e8e8e8 !important;
 }
