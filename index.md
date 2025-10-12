@@ -1,11 +1,11 @@
 ---
-layout: dark
+layout: default
 title: Home
 ---
 
 # Welcome
 
-Currently an undergraduate at Occidental College studying Economics and Mathematics.
+Im Mateo Armijo, an undergraduate at Occidental College studying Economics and Mathematics.
 
 As of Fall 2025 I am taking Discrete Math, Real Analysis I and Microeconomics.
 
