@@ -23,6 +23,14 @@ Here is where I will post my class notes. I type them up before midterms and for
 
 <br>
 
+### Microeconomics   
+- [Lecture Notes Part 1](/uploads/notes/ECON250__Intermediete_Microeconomics.pdf)
+- topics: Indiffrence Curves, Utility Optimization, Demand Curve
+- text: Microeconomics 3rd Edition, Goolsbee, Levitt, Syverson
+- instructor: Ngo
+
+<br>
+
 ## Spring 2025
 
 ### Multivariable Calculus 
