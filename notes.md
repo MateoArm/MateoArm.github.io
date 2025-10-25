@@ -25,7 +25,9 @@ Here is where I will post my class notes. I type them up before midterms and for
 
 ### Microeconomics   
 - [Lecture Notes Part 1](/uploads/notes/ECON250__Intermediete_Microeconomics.pdf)
-- topics: Indiffrence Curves, Utility Optimization, Demand Curve
+- topics: Consumer Theory (Indiffrence Curves, Utility Optimization, Demand Curve)
+- [Lecture Notes Part 2](/uploads/notes/ECON250_Part_2__Intermediete_Microeconomics.pdf)
+- topic: Producer Theory (Production Functions, Cost Minimization, Profit Maximization, Supply Curve)
 - text: Microeconomics 3rd Edition, Goolsbee, Levitt, Syverson
 - instructor: Ngo
 
