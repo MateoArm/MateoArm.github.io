@@ -4,7 +4,7 @@ title: Class Notes
 permalink: /notes/
 ---
 
-Here is where I will post my class notes. I type them up before midterms and for previous courses I will try to retroactivly add them when I get the chance to type them up. If you need assitance aquiaring any texts I used feel free to reach out to me and I can tell you resources on how to find them.  Disclaimer: none of the educational materials such as problem sets, sylabi or lecture are my property. 
+Here is where I will post my class notes. I type them up before midterms and for previous courses I will try to retroactivly add them when I get the chance to type them up. If you need assitance aquiaring any texts I used feel free to reach out to me and I can tell you resources on how to find them.  Disclaimer: none of the educational materials are my property. 
 ## Fall 2025
 
 ### Discrete Mathematics
