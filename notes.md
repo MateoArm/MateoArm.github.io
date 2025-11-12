@@ -18,7 +18,7 @@ Here is where I will post my class notes. I type them up before midterms and for
 ### Real Analysis I  
 - [Lecture Notes Part 1](/uploads/notes/MATH310_Real_Analysis.pdf)
 - topics: Cardinality, Ordering Of R, Inequalities, Supermum
-- [Lecture Notes Part 1](/uploads/notes/MATH310_Real_Analysis_Part2.pdf)
+- [Lecture Notes Part 2](/uploads/notes/MATH310_Real_Analysis_Part2.pdf)
 - topics: Sequence Convergence, Series Convergece, Pointwise and Uniform Convergence
 - text: Bartle and Sherbert-Introduction to Analysis 4th
 - instructor: Rainone
