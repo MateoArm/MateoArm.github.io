@@ -10,6 +10,8 @@ Here is where I will post my class notes. I type them up before midterms and for
 ### Discrete Mathematics
 - [Lecture Notes Part 1](/uploads/notes/MATH210__Discrete_Math.pdf)
 - topics: Logic, Set Theory, Combinatorics
+- [Lecture Notes Part 2](/uploads/notes/MATH210__Discrete_Math_Part2.pdf)
+- topics: Relations, Orderings, Equivelence, Functions
 - text: Smith-Eggen-Andre - A Transition to Advanced Mathematics-Ed8
 - instructor: Rainone
 
